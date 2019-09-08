@@ -1,0 +1,4 @@
+ Hi!
+ This is just testing text file
+ 
+ Thanks, Thomas
