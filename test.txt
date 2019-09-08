@@ -1,4 +1,11 @@
- Hi!
- This is just testing text file
- 
- Thanks, Thomas
+Date: 9/8/2019 
+Name: Thomas
+----------------------------------------
+ Hello!
+
+ This is just test to pull request
+
+ Thanks
+  
+-------------------------------------------
+
